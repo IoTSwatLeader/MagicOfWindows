@@ -1,0 +1,8 @@
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\bin\Release\TraceWindowFocus.exe.config
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\bin\Release\TraceWindowFocus.exe
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\bin\Release\TraceWindowFocus.pdb
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\obj\Release\TraceWindowFocus.csproj.AssemblyReference.cache
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\obj\Release\TraceWindowFocus.csproj.SuggestedBindingRedirects.cache
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\obj\Release\TraceWindowFocus.csproj.CoreCompileInputs.cache
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\obj\Release\TraceWindowFocus.exe
+D:\Git Repositories\Visual Studio Projects\Visual Studio .NET\CPP\TraceWindowFocus\TraceWindowFocus\obj\Release\TraceWindowFocus.pdb
