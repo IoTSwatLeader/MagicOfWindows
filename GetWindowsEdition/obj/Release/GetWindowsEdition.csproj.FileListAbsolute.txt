@@ -1,0 +1,7 @@
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Release\GetWindowsEdition.exe.config
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Release\GetWindowsEdition.exe
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Release\GetWindowsEdition.pdb
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Release\GetWindowsEdition.csproj.AssemblyReference.cache
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Release\GetWindowsEdition.csproj.CoreCompileInputs.cache
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Release\GetWindowsEdition.exe
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Release\GetWindowsEdition.pdb

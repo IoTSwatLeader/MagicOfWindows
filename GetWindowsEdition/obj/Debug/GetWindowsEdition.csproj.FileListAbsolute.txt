@@ -1,0 +1,14 @@
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.exe.config
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.exe
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.pdb
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.csproj.AssemblyReference.cache
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.csproj.CoreCompileInputs.cache
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.exe
+C:\Users\juergenk\source\repos\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.pdb
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.exe.config
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.exe
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\bin\Debug\GetWindowsEdition.pdb
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.csproj.AssemblyReference.cache
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.csproj.CoreCompileInputs.cache
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.exe
+C:\Users\juergenk\OneDrive - Microsoft\Documents\Visual Studio 2022\Sources\GetWindowsEdition\GetWindowsEdition\obj\Debug\GetWindowsEdition.pdb
